@@ -1,6 +1,6 @@
 ![QA-banner](https://user-images.githubusercontent.com/119007907/209415679-06ec90a6-3efd-4c60-9652-5212ab9829d1.jpg)
-<p align="center">
-> "Primus inter pares!"
+> <p align="center">
+"PRIMUS INTER PARES"
 </p>
 <div align="center">
 <h1 align="center">Hi! 👋 I'm a Software QA Manual and Automation Engineer</h1>
