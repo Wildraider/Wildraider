@@ -1,6 +1,6 @@
 ![QA-banner](https://user-images.githubusercontent.com/119007907/209415679-06ec90a6-3efd-4c60-9652-5212ab9829d1.jpg)
 <p align="center">
-It's not about being the best, it's about being better than you were yesterday!
+> "Primus inter pares!"
 </p>
 <div align="center">
 <h1 align="center">Hi! 👋 I'm a Software QA Manual and Automation Engineer</h1>
