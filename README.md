@@ -3,7 +3,7 @@
 "PRIMUS INTER PARES"
 </p>
 <div align="center">
-<h1 align="center">Hi! 👋 I'm a Software QA Manual and Automation Engineer</h1>
+<h1 align="center">Hi! 👋 I'm Dave and I'm a Manual & Automation Quality Assurance Engineer</h1>
 <a href="https://www.linkedin.com/in/dmytro-ponomarenko/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
