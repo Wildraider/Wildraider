@@ -40,7 +40,7 @@ Languages and Tools I use :
 MY HOBBIES : Reading | Cooking | Exploring | Traveling |
 </p>
 
-# Life Credo: **"PRIMUS INTER PARES"**
+### Life Credo: **"PRIMUS INTER PARES"**
 </p>
 
 
