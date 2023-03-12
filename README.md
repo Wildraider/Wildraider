@@ -1,7 +1,7 @@
 ![QA-banner](https://user-images.githubusercontent.com/119007907/209415679-06ec90a6-3efd-4c60-9652-5212ab9829d1.jpg)
 </p>
 <div align="center">
-<h1 align="center">Hi! 👋 I'm Dave and I'm a Manual & Automation Quality Assurance Engineer</h1>
+<h1 align="center">Hi! I'm Dave and I'm a Manual & Automation Quality Assurance Engineer</h1>
 <a href="https://www.linkedin.com/in/dmytro-ponomarenko/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
