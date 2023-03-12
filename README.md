@@ -39,6 +39,7 @@ Languages and Tools I use :
 <p align="center">
 MY HOBBIES : Reading | Cooking | Exploring | Traveling |
 </p>
+
 ## Life Credo: **"PRIMUS INTER PARES"**
 </p>
 
