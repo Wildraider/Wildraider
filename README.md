@@ -1,6 +1,6 @@
 ![QA-banner](https://user-images.githubusercontent.com/119007907/209415679-06ec90a6-3efd-4c60-9652-5212ab9829d1.jpg)
 
-**"PRIMUS INTER PARES"**
+## **"PRIMUS INTER PARES"**
 </p>
 <div align="center">
 <h1 align="center">Hi! 👋 I'm Dave and I'm a Manual & Automation Quality Assurance Engineer</h1>
