@@ -8,7 +8,7 @@
 </div>
 <p>
 <hr>
-Languages and Tools I use :
+I'm using languages & tools:
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="50"/>&nbsp;
